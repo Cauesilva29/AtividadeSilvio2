@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+    body{
+        background-image: linear-gradient(to right, black ,rgb(97, 3, 3));
+        color:white;
+        font-family: 'Times New Roman', Times, serif;
+    
+    }
+
+    .logo{
+        text-align: center;
+    }
+
+    .principal{
+        display: grid;
+        justify-content: space-around;
+        margin: 10px;
+        padding: 25px;
+        float:none;
+    }
+
+    .sobre{
+        padding: 5px;
+        border: 10px, double;
+        text-align: center;
+    }
+
+    .contato{
+        padding: 5px;
+        border: 10px, double;
+        text-align: center;
+
+    }
+
+    .servicos{
+        padding: 5px;
+        border: 10px, double;
+        text-align: center;
+
+    }
+
+   
